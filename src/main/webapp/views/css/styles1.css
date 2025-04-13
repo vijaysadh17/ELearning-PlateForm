@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.card-header {
+    background-color: #f8f9fa;
+    font-weight: bold;
+}
+
+.card-body {
+    background-color: #f1f1f1;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
